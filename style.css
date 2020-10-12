@@ -1,0 +1,26 @@
+body {
+    margin: 30px;
+}
+
+.konteineris {
+    border: 1px solid green;
+}
+.eilute {
+    border: 1px solid red;
+    background-color: darkkhaki;
+}
+.stulpelis {
+    border:3px dotted blue;
+    background-color: aquamarine;
+}
+.eilute {
+    height: 100px;
+    background-color: darkturquoise;
+}form {
+    width: 500px;
+    margin: auto;
+ }
+.main-form {
+    width:500px;
+    margin: auto;
+}
